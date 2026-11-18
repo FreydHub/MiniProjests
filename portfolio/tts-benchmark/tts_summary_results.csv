@@ -1,0 +1,5 @@
+model;model_name;arch;avg_synth_time_sec;avg_audio_duration_sec;avg_rtf;init_time_sec;gpu_peak_mb
+fast_pitch;tts_models/en/ljspeech/fast_pitch;FastPitch;0.15551657676696778;3.933097505668934;0.04040770810552227;16.904897689819336;723.16015625
+glow_tts;tts_models/en/ljspeech/glow-tts;Glow-TTS (flow-based, non-AR);0.31498591899871825;4.225668934240363;0.07667287324299629;17.4421284198761;403.470703125
+tacotron2;tts_models/en/ljspeech/tacotron2-DDC;Tacotron2 (autoregressive);0.6087969779968262;3.9574784580498865;0.15511672750208813;15.709706783294678;413.14404296875
+vits_en;tts_models/en/ljspeech/vits;VITS (end-to-end, GAN/flow);0.18184130191802977;4.138594104308391;0.04479599605795753;3.2978334426879883;520.38134765625
